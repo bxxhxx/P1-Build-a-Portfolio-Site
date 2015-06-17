@@ -171,8 +171,8 @@ img.main {
 
 	.samples {
 		float: left;
-		margin-right: 30px;
-		width: calc((100% - 60px)/3);
+		margin-right: 5%;
+		width: 30%;
 		text-align: center;
 	}
 
@@ -197,8 +197,8 @@ img.main {
 @media screen and (min-width: 800px) {
 	.samples {
 		float: left;
-		margin-right: 30px;
-		width: calc((100% - 60px)/3);
+		margin-right: 5%;
+		width: 30%;
 		text-align: center;
 	}
 
